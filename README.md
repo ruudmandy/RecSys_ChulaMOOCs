@@ -5,9 +5,3 @@ Path to data's directory
 /chulamoocs/...
 
 Add data or csv file to data's directory (same name as file's original name)
-
---- Some folder
-    |---- chulamoocs (contain data)
-          |---- <filename>.csv
-    |    
-    |---- <jupyter notebook>.ipynb
